@@ -13,12 +13,12 @@ Welcome to my CMD music player project! This Python script allows you to play mu
 
 ## Getting Started
 To get started with my CMD music player, follow these steps:
-1. Clone this repository to your local machine.
+1. Go to releases and download the latest or preffered one.
 2. Ensure you have Python installed.
 3. Open your command line interface.
-4. Navigate to the directory where you cloned the repository.
-5. Run the `music_player.py` script using Python.
+4. Navigate to the directory where your downloaded and unziped release.
+5. Run the `controller.py` script using Python.
 
 ```bash
-python music_player.py
+python controller.py
 ```
