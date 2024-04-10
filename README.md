@@ -18,10 +18,10 @@ To get started with my CMD music player, follow these steps:
 3. Open your command line interface.
 4. Navigate to the directory where your downloaded and unziped release. (for linux users please use as root by
 
-then enter your root password.
+then enter your root password.)
 5.    ```bash
 sudo su -
-```)
+```
 for windows users please note if not working or error try to install ffmpeg and yt-dlp .exe's sepratly and add to bin and then env variable.
 6. Run the `controller.py` script using Python.
 
