@@ -16,7 +16,8 @@ To get started with my CMD music player, follow these steps:
 1. Go to releases and download the latest or preffered one.
 2. Ensure you have Python installed.
 3. Open your command line interface.
-4. Navigate to the directory where your downloaded and unziped release. (for linux users please use as root by ```bash
+4. Navigate to the directory where your downloaded and unziped release. (for linux users please use as root by
+    ```bash
 sudo su -
 ```)
 then enter your root password.
